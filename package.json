@@ -2,6 +2,7 @@
   "name": "contactmanager",
   "version": "0.1.0",
   "private": true,
+  "proxy": "https://jsonplaceholder.typicode.com/users",
   "homepage": "https://yocamyo.github.io/contactManager",
   "dependencies": {
     "axios": "^0.18.0",
